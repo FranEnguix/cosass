@@ -1,6 +1,9 @@
 # COSASS (Valencia hub)
 Valencia hub for the Coordinated Intelligent Services for Adaptive Smart Areas (COSASS) national project.
 
+## Official COSASS website
+The official website is located in this [link](https://cosass.usal.es).
+
 
 ## Software developed
 ### Agri-RO5
